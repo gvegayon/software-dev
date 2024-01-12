@@ -12,7 +12,7 @@ This project’s main contents are located in the project’s
 
 # USCbiostats R packages
 
-As of 2024-01-10, the packages listed here have been cited **135** times
+As of 2024-01-12, the packages listed here have been cited **135** times
 (source: Google Scholar).
 
 | Name                                                                      | Description                                                                                                                                                                                                                                                                                                                                                                                                                                         | Citations                                                                 |
